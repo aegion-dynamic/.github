@@ -13,4 +13,4 @@
 
 ## About
 
-Aegion Dynamic is a Deep Tech R&D company focused on developing foundational building blocks that will enable other deep tech startups to safely derisk their technology stacks. We are a multidisciplinary team that develops everythin ranging from cloud stacks to next gen telecommunication and radar systems.
+Aegion Dynamic is a Deep Tech R&D company focused on developing foundational building blocks that will enable other deep tech startups to safely derisk their technology stacks. We are a multidisciplinary team that develops everything ranging from cloud stacks to next-gen telecommunication and radar systems.
